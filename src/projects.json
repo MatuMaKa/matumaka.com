@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Stackboard",
+    "description": "A stackboard designed for private use.",
+    "url": "https://board.matumaka.com/",
+    "thumbnail": "/thumbs/stackboard.png"
+  },
+  {
+    "title": "NotesGUI",
+    "description": "Staff notes plugin with an in-game GUI.",
+    "url": "https://github.com/MatuMaKa/NotesGUI",
+    "thumbnail": "/thumbs/notesgui.png"
+  },
+  {
+    "title": "Developer Hub",
+    "description": "A website designed to make development easier.",
+    "url": "https://dev.matumaka.com/",
+    "thumbnail": "/thumbs/devhub.png"
+  }
+]
