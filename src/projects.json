@@ -6,6 +6,12 @@
     "thumbnail": "/thumbs/stackboard.png"
   },
   {
+    "title": "Eliz Language",
+    "description": "A custom programming language combining Java & Python.",
+    "url": "https://github.com/MatuMaKa/Eliz",
+    "thumbnail": "/thumbs/eliz.png"
+  },
+  {
     "title": "NotesGUI",
     "description": "Staff notes plugin with an in-game GUI.",
     "url": "https://github.com/MatuMaKa/NotesGUI",
