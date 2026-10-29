@@ -18,6 +18,12 @@
     "thumbnail": "/thumbs/notesgui.png"
   },
   {
+    "title": "IncomeMC",
+    "description": "A minecraft generator server, where the community helps shape it.",
+    "url": "https://github.com/IncomeMC",
+    "thumbnail": "/thumbs/incomemc.png"
+  },
+  {
     "title": "Developer Hub",
     "description": "A website designed to make development easier.",
     "url": "https://dev.matumaka.com/",
