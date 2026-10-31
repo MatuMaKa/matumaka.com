@@ -28,5 +28,11 @@
     "description": "A website designed to make development easier.",
     "url": "https://dev.matumaka.com/",
     "thumbnail": "/thumbs/devhub.png"
+  },
+  {
+    "title": "Giveaway Server Bot",
+    "description": "A giveaway server bot source code so people can create their own giveaway servers.",
+    "url": "https://github.com/MatuMaKa/giveaway-server-bot",
+    "thumbnail": "/thumbs/giveaway-server-bot.png"
   }
 ]
