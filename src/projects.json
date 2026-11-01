@@ -12,6 +12,12 @@
     "thumbnail": "/thumbs/eliz.png"
   },
   {
+    "title": "GUIMenus",
+    "description": "A library for making GUI Menus in Minecraft using displays.",
+    "url": "https://github.com/MatuMaKa/GUIMenus",
+    "thumbnail": "/thumbs/guimenus.png"
+  },
+  {
     "title": "NotesGUI",
     "description": "Staff notes plugin with an in-game GUI.",
     "url": "https://github.com/MatuMaKa/NotesGUI",
